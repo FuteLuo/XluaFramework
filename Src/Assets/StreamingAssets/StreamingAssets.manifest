@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2421356472
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: luascripts/main.bytes.ab
+      Dependencies: {}
+    Info_1:
+      Name: luascripts/ui/testui.bytes.ab
+      Dependencies: {}
+    Info_2:
+      Name: ui/prefabs/testui.prefab.ab
+      Dependencies:
+        Dependency_0: "ui/res/qq\u56FE\u724720220822140326.jpg.ab"
+    Info_3:
+      Name: "ui/prefabs/\u4E00\u7EA7\u754C\u9762.prefab.ab"
+      Dependencies:
+        Dependency_0: "ui/res/qq\u56FE\u724720220822140326.jpg.ab"
+    Info_4:
+      Name: "ui/prefabs/\u4E8C\u7EA7\u5F39\u7A97.prefab.ab"
+      Dependencies: {}
+    Info_5:
+      Name: ui/prefabs/login/login.prefab.ab
+      Dependencies: {}
+    Info_6:
+      Name: "ui/res/qq\u56FE\u724720220822140326.jpg.ab"
+      Dependencies: {}

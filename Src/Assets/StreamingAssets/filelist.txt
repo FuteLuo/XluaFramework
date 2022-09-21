@@ -1,0 +1,7 @@
+Assets/BuildResources/LuaScripts/main.bytes|luascripts/main.bytes.ab
+Assets/BuildResources/LuaScripts/UI/TestUI.bytes|luascripts/ui/testui.bytes.ab
+Assets/BuildResources/UI/Prefabs/TestUI.prefab|ui/prefabs/testui.prefab.ab|Assets/BuildResources/UI/Res/QQ图片20220822140326.jpg
+Assets/BuildResources/UI/Prefabs/一级界面.prefab|ui/prefabs/一级界面.prefab.ab|Assets/BuildResources/UI/Res/QQ图片20220822140326.jpg
+Assets/BuildResources/UI/Prefabs/二级弹窗.prefab|ui/prefabs/二级弹窗.prefab.ab
+Assets/BuildResources/UI/Prefabs/Login/login.prefab|ui/prefabs/login/login.prefab.ab
+Assets/BuildResources/UI/Res/QQ图片20220822140326.jpg|ui/res/qq图片20220822140326.jpg.ab
