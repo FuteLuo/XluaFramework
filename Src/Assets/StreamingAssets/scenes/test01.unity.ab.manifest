@@ -1,0 +1,15 @@
+ManifestFileVersion: 0
+CRC: 2484320536
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c46362c2962c70c7f513f6a09099bcc1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/BuildResources/Scenes/Test01.unity
+Dependencies:
+- C:/Users/ford9/Desktop/XluaFramework/Src/Assets/StreamingAssets/model/mat/test01.mat.ab

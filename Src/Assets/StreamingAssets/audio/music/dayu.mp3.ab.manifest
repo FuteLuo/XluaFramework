@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 779497931
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c71d7fa580e6973985842ad0e079696c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/BuildResources/Audio/Music/dayu.mp3
+Dependencies: []

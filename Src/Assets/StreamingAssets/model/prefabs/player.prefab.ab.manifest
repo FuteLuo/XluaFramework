@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 3659691350
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9dcd687e12dd3b57840d94c1560d8118
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 647ef30cbc4c69dac8a5199b15e5dc16
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 143
+  Script: {instanceID: 0}
+Assets:
+- Assets/BuildResources/Model/Prefabs/Player.prefab
+Dependencies:
+- C:/Users/ford9/Desktop/XluaFramework/Src/Assets/StreamingAssets/model/mat/player.mat.ab

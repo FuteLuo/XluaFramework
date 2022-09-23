@@ -1,0 +1,6 @@
+WindowsStandalone
+PlayerPath?
+C:/Users/ford9/Desktop/XluaFramework/Src/Assets/StreamingAssets/scenes/test02.unity.ab
+SceneListBegin?
+Assets/BuildResources/Scenes/Test02.unity
+SceneListEnd?

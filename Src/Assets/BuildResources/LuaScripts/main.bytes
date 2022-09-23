@@ -27,6 +27,7 @@ Manager.Entity:SetEntityGroup(entity_group);
 
 function Main()
     print("hello world");
-    Manager.UI:OpenUI("TestUI", "UI" ,"UI.TestUI")
+       Manager.UI:OpenUI("TestUI", "UI" ,"UI.TestUI")
     -- Manager.UI:OpenUI("Login/login", "Main" ,"UI.TestUI")
+    -- Manager.Scene:LoadScene("Test01","Scene.Scene01")
 end
